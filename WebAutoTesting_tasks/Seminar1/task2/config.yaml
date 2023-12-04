@@ -1,0 +1,8 @@
+url: "https://test-stand.gb.ru/gateway/login"
+login: "Bmay"
+password: "df8059bc97"
+url_get: "https://test-stand.gb.ru/api/posts"
+url_post: "https://test-stand.gb.ru/api/posts?_ga=2.98834590.1031290318.1700754000-1809671657.1700754000"
+title: "Hello_word!"
+description: "!Hello_word!"
+content: "контентищщщщееее!!!!!!!!!!!"

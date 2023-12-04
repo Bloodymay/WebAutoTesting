@@ -1,0 +1,6 @@
+[
+  "test1.py::test_check_post",
+  "test1.py::test_check_post_2",
+  "test1.py::test_check_post_title",
+  "test1.py::test_get_token"
+]
