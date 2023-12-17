@@ -1,0 +1,8 @@
+name: 'Bmay'
+passwd: 'df8059bc97'
+browser: 'chrome'
+login_site: 'gateway/login'
+post_site: 'api/posts'
+fromaddr: 'bbmay@inbox.ru'
+toaddr: 'bloodskymay456@gmail.com'
+mail_passwd: 'KzpJtSnVpuqjreB7qmww'
